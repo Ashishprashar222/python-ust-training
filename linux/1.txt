@@ -1,21 +1,24 @@
 <---------------------------------------------------------------------LINUX---------------------------------------------------------------------->
 Linux is an open-source fastest growing operating system like other operating systems such as Microsoft Windows, iOS,android, etc.
+-------------------------------------------------------------------------------------------------------------------------------------
 
 operating system:- it is a software that  enables the communicaations between computer hardware and software.
+-------------------------------------------------------------------------------------------------------------
 
 developed by:- Linus Torvalds in 1991. He is also the creator of git.
+---------------------------------------------------------------------
 
 features /// use
 secure
 free
 good performance
 linux terminal is better than windows command line.
-
+---------------------------------------------------
 
 linux terminal---> CTRL+ALT+T
+-----------------------------------------------------------------------------------------------
 
-Shell- it is linux command line interpreter.
-is provide an interface between user and the kernal.
+Shell- it is linux command line interpreter. is provide an interface between user and the kernal.
 
 there are main two types of shell:
 1. Bourne shell ()
@@ -33,11 +36,13 @@ ii)
 
 BASH --- Bourne-again Shell (bash is command interpreter or a programming language.
 it also support variable and function like other programming language.)
-
+------------------------------------------------------------------------------------
 
 kernal is the most important part of the os.
 it is interface between the hardware and processes of a computer. it serves as the bridge between the os and h/w.
+-------------------------------------------------------------------------------------------------------------------
 
+COMMAND
 
 sudo -super user do
 echo- dispay the line of text
