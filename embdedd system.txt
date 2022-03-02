@@ -1,0 +1,29 @@
+raspberry- is a microcontroller
+microcontroller 
+
+raspberry pi is a low cost,credit-card size computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse.
+
+founded in 2009.
+
+WHY USE raspberry Pi---
+☺very low cost
+☺greate tool for lrarning programming,computers and concepts of embedded system.
+☺support and runs free and open source linux OS
+☺consumes less than 5w of power
+☺support full hd video output,multiple usb ports etc.
+
+
+GIPO SETMODE
+GPIO.setmode(GPIO.BCM)
+Board mode- take board number
+BCM mode-take GPIO no
+
+GPIO.setup= (2,GPIO.OUT)
+GPIO.OUT= use to send signal
+GPIO.output(2,GPIO.HIGH)=it will give output
+
+GPIO.HIGH()= it will send 5 volt
+
+
+IR sensor
+range of IR is 2-7 cm
