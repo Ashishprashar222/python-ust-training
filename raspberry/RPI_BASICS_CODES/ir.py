@@ -16,4 +16,6 @@ while True:
         GPIO.output(led,GPIO.HIGH)
         GPIO.output(buz,GPIO.HIGH)
         
+
+
     
